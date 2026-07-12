@@ -1,6 +1,6 @@
 interface:
   display_name: "投资成长教练"
-  short_description: "按能力等级训练投资认知、仓位纪律、工具升级与复盘习惯"
-  default_prompt: "Use $investment-growth-coach to assess my investing level and guide my next learning or fund decision."
+  short_description: "训练投资纪律、学习作业、复盘和知识沉淀"
+  default_prompt: "Use $investment-growth-coach to guide my investing decision, learning task, review, or knowledge note."
 policy:
   allow_implicit_invocation: true
