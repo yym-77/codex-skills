@@ -1,6 +1,13 @@
-state/
-planning/
-indexes/
 local-only/
+raw-work/
+work-source/
+build/
+.cache/
 __pycache__/
 *.py[cod]
+*.log
+*.dmp
+*.core
+*.zip
+*.7z
+.DS_Store

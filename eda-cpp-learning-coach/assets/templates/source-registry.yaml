@@ -1,0 +1,21 @@
+schema_version: 1
+updated_at:
+libraries:
+  qtbase:
+    display_name: Qt Base
+    remote: https://github.com/qt/qtbase.git
+    default_ref: null
+    pinned_commit: null
+    access: read-only
+    status: local-path-not-configured
+    modules:
+      - Core
+      - Gui
+      - Widgets
+      - Network
+    local_path_source: ../local-only/source-paths.yaml
+rules:
+  - Prefer a registered local read-only checkout.
+  - Confirm the branch, tag or commit before drawing implementation conclusions.
+  - Store machine-specific paths under local-only/.
+  - Put user-written experiments under experiments/.

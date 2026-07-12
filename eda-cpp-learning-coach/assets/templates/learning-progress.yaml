@@ -1,0 +1,19 @@
+schema_version: 1
+as_of:
+status: active
+current_stage:
+  code:
+  name:
+  confidence: low
+active_track:
+  topic_id:
+  name:
+  status: not-started
+  progression_rule: 由证据决定是否完成，不按自然周机械切换。
+current_strengths: []
+current_gaps: []
+allowed_now: []
+not_allowed: []
+next_small_focus: []
+secondary_goal:
+  description:
