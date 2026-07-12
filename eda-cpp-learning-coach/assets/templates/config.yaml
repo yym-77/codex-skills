@@ -1,0 +1,14 @@
+schema_version: 1
+timezone: ""
+data_root: ""
+context_linking: active-topic-only
+teaching_style: coach
+storage_mode: local-first
+auto_record: suggest
+review_intervals_days: [1, 7, 30]
+active_review_limit: 8
+review_session_limit: 3
+work_source_access: deny-by-default
+git_sync: "off"
+push_mode: explicit
+allowed_remotes: []

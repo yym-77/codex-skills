@@ -1,0 +1,11 @@
+schema_version: 1
+id:
+title:
+ability_question:
+status: active
+started_at:
+updated_at:
+evidence_needed: []
+completion_evidence: []
+linked_records: []
+next_action:

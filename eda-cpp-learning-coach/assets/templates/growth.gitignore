@@ -1,0 +1,6 @@
+state/
+planning/
+indexes/
+local-only/
+__pycache__/
+*.py[cod]

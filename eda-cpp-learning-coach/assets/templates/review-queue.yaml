@@ -1,0 +1,22 @@
+schema_version: 1
+updated_at:
+items: []
+
+# item schema:
+# - record_id: rec-YYYYMMDD-001
+#   stage: D1
+#   status: pending
+#   due_at:
+#   reviewed_at:
+#   recall:
+#   application:
+#   verification: false
+#   weak_point: ""
+#   next_due_at:
+#
+# 合法枚举：
+# stage: D1 | D7 | D30 | relearn
+# status: pending | due | reviewed | relearn | stable | archived
+# recall: 0 | 1 | 2 | null
+# application: 0 | 1 | 2 | null
+# verification: true | false
