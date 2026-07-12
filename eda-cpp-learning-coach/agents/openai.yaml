@@ -1,0 +1,4 @@
+interface:
+  display_name: "EDA C++ 学习成长教练"
+  short_description: "用能力问题串联学习、工程复盘、间隔复习与安全记录工作流"
+  default_prompt: "使用 $eda-cpp-learning-coach 帮我处理当前 EDA/C++ 学习或工程问题。先判断模式，不要自动写入记录。"
